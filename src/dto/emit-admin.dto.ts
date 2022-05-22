@@ -7,5 +7,5 @@ export class EmitAdminDto {
 
 export class WithdrawDto {
   price: number;
-  unitPrice: number;
+  unitPrice: string;
 }
